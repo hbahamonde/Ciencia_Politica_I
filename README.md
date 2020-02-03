@@ -1,2 +1,2 @@
-# Ciencia_Politica_I
+# Ciencia Politica I
 Curso de pregrado en la UOH
