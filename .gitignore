@@ -276,3 +276,5 @@ TSWLatexianTemp*
 *.lpz
 
 Slides/.DS_Store
+
+Tests/.DS_Store
